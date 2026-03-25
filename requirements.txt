@@ -1,6 +1,4 @@
-crewai
-litellm
-streamlit
+streamlit==1.39.0
 pandas
 numpy
 plotly
@@ -8,3 +6,6 @@ scikit-learn
 fpdf2
 python-dotenv
 openpyxl
+tiktoken==0.5.2
+crewai==0.80.0
+litellm
