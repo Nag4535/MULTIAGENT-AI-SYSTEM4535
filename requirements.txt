@@ -1,0 +1,10 @@
+crewai
+litellm
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+fpdf2
+python-dotenv
+openpyxl
